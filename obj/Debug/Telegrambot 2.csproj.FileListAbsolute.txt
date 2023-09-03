@@ -1,0 +1,72 @@
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\Telegrambot 2.exe.config
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\Telegrambot 2.exe
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\Telegrambot 2.pdb
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\Newtonsoft.Json.dll
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\Telegram.Bot.dll
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\Newtonsoft.Json.xml
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Информатика Лопатин\Telegrambot 2\bin\Debug\Telegram.Bot.xml
+D:\Информатика Лопатин\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.AssemblyReference.cache
+D:\Информатика Лопатин\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.SuggestedBindingRedirects.cache
+D:\Информатика Лопатин\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.CoreCompileInputs.cache
+D:\Информатика Лопатин\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.CopyComplete
+D:\Информатика Лопатин\Telegrambot 2\obj\Debug\Telegrambot 2.exe
+D:\Информатика Лопатин\Telegrambot 2\obj\Debug\Telegrambot 2.pdb
+D:\Информатика\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.AssemblyReference.cache
+D:\Информатика\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.SuggestedBindingRedirects.cache
+D:\Информатика\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.CoreCompileInputs.cache
+D:\Информатика\Telegrambot 2\obj\Debug\Telegrambot 2.exe
+D:\Информатика\Telegrambot 2\obj\Debug\Telegrambot 2.pdb
+D:\Информатика\Telegrambot 2\bin\Debug\Telegrambot 2.exe.config
+D:\Информатика\Telegrambot 2\bin\Debug\Telegrambot 2.exe
+D:\Информатика\Telegrambot 2\bin\Debug\Telegrambot 2.pdb
+D:\Информатика\Telegrambot 2\bin\Debug\Newtonsoft.Json.dll
+D:\Информатика\Telegrambot 2\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Информатика\Telegrambot 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Информатика\Telegrambot 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Информатика\Telegrambot 2\bin\Debug\Telegram.Bot.dll
+D:\Информатика\Telegrambot 2\bin\Debug\Newtonsoft.Json.xml
+D:\Информатика\Telegrambot 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Информатика\Telegrambot 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Информатика\Telegrambot 2\bin\Debug\Telegram.Bot.xml
+D:\Информатика\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.CopyComplete
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\Telegrambot 2.exe.config
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\Telegrambot 2.exe
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\Telegrambot 2.pdb
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\Newtonsoft.Json.dll
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\Telegram.Bot.dll
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\Newtonsoft.Json.xml
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Информатика\Телеграм проекты\Telegrambot 2\bin\Debug\Telegram.Bot.xml
+D:\Информатика\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.AssemblyReference.cache
+D:\Информатика\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.SuggestedBindingRedirects.cache
+D:\Информатика\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.CoreCompileInputs.cache
+D:\Информатика\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.CopyComplete
+D:\Информатика\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.exe
+D:\Информатика\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.pdb
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\Telegrambot 2.exe.config
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\Telegrambot 2.exe
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\Telegrambot 2.pdb
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\Newtonsoft.Json.dll
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\Telegram.Bot.dll
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\Newtonsoft.Json.xml
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Computer science\Телеграм проекты\Telegrambot 2\bin\Debug\Telegram.Bot.xml
+D:\Computer science\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.AssemblyReference.cache
+D:\Computer science\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.SuggestedBindingRedirects.cache
+D:\Computer science\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.CoreCompileInputs.cache
+D:\Computer science\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.csproj.CopyComplete
+D:\Computer science\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.exe
+D:\Computer science\Телеграм проекты\Telegrambot 2\obj\Debug\Telegrambot 2.pdb
